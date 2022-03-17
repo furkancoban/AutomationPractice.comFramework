@@ -20,16 +20,14 @@ Note: This project support only Chrome and Gecko browsers. By default it uses Ch
 however if you want to run tests in Firefox browser you will need to change "browser" variable which is located in src/test/resources/configs/configuration.properties file.
 
 
-1. Run from PowerShell / Terminal
+--- Run from PowerShell / Terminal ---
 
 Steps:
 
 1. mvn clean
 2. mvn test
 
-
-
-2. Run from pom.xml file
+--- Run from pom.xml file ---
 
 Steps:
 
